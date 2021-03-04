@@ -1,6 +1,5 @@
 ### :tada:Happy New Year 2021:tada:
 2021, 诸事顺利  
-Update: 个人网站http://scientiacoder.io/ 上线啦
   
 ![helloworld](./helloworld.jpeg)
   

@@ -1,10 +1,8 @@
-### :tada:Happy New Year 2021:tada:
-2021, 诸事顺利  
-个人网站https://scientiacoder.io/ 上线啦
-  
-![helloworld](./helloworld.jpeg)
-  
-                                                                       -- 2006-01-02 15:04:05
+### :tada:Happy New Year 2022:tada:
+2022, 诸事顺利  
+
+I'm back!
+
 <!--
 **PaulChenAU/PaulChenAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
